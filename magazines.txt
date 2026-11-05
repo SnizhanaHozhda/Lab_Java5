@@ -1,0 +1,3 @@
+Forbes;2023;120;5
+National Geographic;2021;90;2
+Футбол;2022;48;11
